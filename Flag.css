@@ -1,0 +1,27 @@
+.blue {
+    height: 67px;
+    width: 300px;
+    background-color: #00a9ce;
+}
+.yellow {
+    height: 66px;
+    width: 300px;
+    background-color: #fdda25;
+}
+.colors{
+    position: relative;
+    margin: 30px;
+}
+
+.triangle {
+    margin: 30px;
+    top: 0;
+    z-index: 2;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 100px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-left: 200px solid #000000; 
+  }
+  
