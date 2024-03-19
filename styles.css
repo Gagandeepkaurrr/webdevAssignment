@@ -57,13 +57,11 @@ body{
     background-color: rgb(201, 201, 255);
     margin: 0px;
 }
-@media (width: 1284px) {
+@media (min-width: 1284px) {
     .Navbar{
-        max-width: 1500px;
-        min-width: 1294px;
+        width: 1440px
     }
     .image{
         margin-left: 120%;
     }
-
 }
