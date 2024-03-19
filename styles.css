@@ -58,6 +58,9 @@ body{
     margin: 0px;
 }
 @media (min-width: 1284px) {
+    .Navbar{
+        width: 100%;
+    }
     .image{
         margin-left: 120%;
     }
